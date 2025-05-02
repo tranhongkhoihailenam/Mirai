@@ -1,9 +1,4 @@
-node_modules/
-package-lock.json
-cookie.txt
-utils/data/fbstate.json
-includes/data.sqlite
-*.txt[
+[
 	{
 		"key": "dbln",
 		"value": "%7B%22100092045916754%22%3A%22WWYzwAfS%22%7D",
